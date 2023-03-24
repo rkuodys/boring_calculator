@@ -1,5 +1,5 @@
 
-class Calculator():
+class Calculator:
     '''
     Calculator can perform supported operations against value in memory
     Default memory value is float 0. Operations are performed with floats.
