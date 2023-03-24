@@ -1,0 +1,19 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[pypi]
+username = "rkuodys"
+
+[pypytest]
+repository = "https://test.pypi.org/legacy/"
+username = "rkuodys"
+
+[project]
+name = "boring_calculator"
+authors = [{name = "rkuodys", email = "r.kuodys@gmail.com"}]
+license = {file = "LICENSE"}
+description-file = "README.md"
+requires-python = ">=3.7"
+classifiers = ["License :: OSI Approved :: MIT License"]
+dynamic = ["version", "description"]
