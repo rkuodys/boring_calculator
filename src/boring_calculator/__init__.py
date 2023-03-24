@@ -5,4 +5,4 @@
     Default state is 0.
 """
 from .main import Calculator
-__version__ = "0.2"
+__version__ = "0.2.1"
