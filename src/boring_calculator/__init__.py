@@ -4,5 +4,5 @@
     All actions are performed agains in-memory saved number.
     Default state is 0.
 """
-from src.boring_calculator.main import Calculator
+from .main import Calculator
 __version__ = "0.2"
