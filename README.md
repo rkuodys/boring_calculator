@@ -10,7 +10,7 @@ To use the Calculator class, first import the module:
 from boring_calculator import Calculator
 
 # For Google Colab you might need to import from main
-from boring_calculator.main import Calculator
+from boring_calculator import Calculator
 ```
 Then, create an instance of the Calculator class:
 

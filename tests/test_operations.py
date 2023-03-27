@@ -1,6 +1,6 @@
 import unittest
 
-from src.boring_calculator.main import Calculator
+from boring_calculator.main import Calculator
 
 
 class TestCalculator(unittest.TestCase):
